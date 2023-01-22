@@ -104,8 +104,8 @@ input {
 }
 
 input:checked {
-  background: #8b5cf6;
-  border: 2px solid #a78bfa;
+  background: rgb(130, 25, 228);
+  border: 2px solid blueviolet;
 }
 
 @media (max-width: 570px) {
